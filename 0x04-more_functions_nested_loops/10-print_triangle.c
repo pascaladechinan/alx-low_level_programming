@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ *print_triangle - prints a triangle
+ *@size:size parameter of triangle
+ *Return: returns nothing
  */
 
 void print_triangle(int size)
