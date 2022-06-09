@@ -6,7 +6,7 @@
 *Return: 1 whether it is, 0 otherwise
 */
 
-int _isupper(char c)
+int _isupper(int c)
 {
     int isupper;
 
